@@ -1,0 +1,35 @@
+- Panel semi transparente con alguna textura: imagen semitransparente con algún dibujo: inspiración glass de minecraft
+- Borde del panel -> Copiar https://hype4.academy/tools/glassmorphism-generator
+- Lineas entre las rows y columnas
+- Ocultar las fichas si están fuera del panel o sobre un panel deshabilitado
+- Que se rompan las fichas
+- Animaciones de rotura
+  * Quizás un objeto animación con el enlace a la carpeta con las imágenes y los ticks de cada frame
+- Mientras hay animaciones de rotura, no se tienen que seguir rompiendo las fichas ¿cayendo tampoco?
+- Administrador de resources
+
+Futuro:
+- Efecto blur al panel transparente -> https://www.youtube.com/watch?v=K8hzFTgPvRc
+  * Obtener píxeles fondo, aplicar blur y guardarlo como bufferedimage?
+  * https://ui.glass/generator/
+  * https://hype4.academy/tools/glassmorphism-generator
+
+Prioridad de juego:
+- Animaciones + Correspondiente destrucción
+- Caída de bloques
+- Destrucción:
+  - Destruir solo la mejor combinación
+- Empezar de arriba de nuevo
+
+
+
+
+
+
+
+
+Lista a implementar por orden:
+- Ajustes visuales del panel: borde, lineas separadoras, background
+- Ocultar fichas fuera del panel
+- Rotura automática
+- Animaciones + Prioridades
