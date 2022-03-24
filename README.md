@@ -2,6 +2,8 @@
 
 This is a Java powered game similar to Candy Crush, it is just a proof of concept but the code may be helpful for anyone who wants to start at game development.
 
+![Imgur Image](https://github.com/SergioOA/Java-CandyCrush-Clone/blob/main/README.gif)
+
 ## Dependencies
 
 There's no dependencies, all the libraries used are included in Java by default.
